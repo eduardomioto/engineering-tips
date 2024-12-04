@@ -17,6 +17,7 @@ Quick tips for decision makers
 - [webp.md](performance/webp.md): Benefits of using WebP for high-performance applications.
 
 ### React
+- [react-concepts.md](react/react-concepts.md): The most important concepts on React
 - [vite-vs-webpack.md](react/vite-vs-webpack.md): Comprehensive comparison between Vite and Webpack.
 - [zustand-state-management-react.md](react/zustand-state-management-react.md): Guide on using Zustand for state management in React applications.
 - [react-query-usage.md](react/react-query-usage.md): Explanation of how to use React Query for managing server state in React applications.
