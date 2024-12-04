@@ -4,6 +4,11 @@ Optimizing the SSL handshake process is crucial for improving the performance an
 
 Selecting the appropriate cipher suite can significantly impact the performance of SSL handshakes. Modern cipher suites that use Elliptic Curve Cryptography (ECC) are generally faster and more secure than older ones. Ensure that your server is configured to prioritize these modern cipher suites.
 
+
+### How SSL Works?
+
+![SSL Handshake Process](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed998b2e-fbc8-4c3c-b339-eca5abd85ce3_1289x1536.gif)
+
 ### Recommended Cipher Suites
 Here are some recommended cipher suites that provide a good balance of security and performance:
 
