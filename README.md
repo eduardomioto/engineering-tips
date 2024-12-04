@@ -7,6 +7,7 @@ Quick tips for decision makers
 - [dynamodb_dax_overview.md](databases/dynamodb_dax_overview.md): Overview of DynamoDB, including DAX (DynamoDB Accelerator) and Global Secondary Indexes.
 - [postgres_indexes.md](databases/postgres_indexes.md): Detailed guide on PostgreSQL index types and recommendations for their use.
 - [postgres_sharding.md](databases/postgres_sharding.md): Benefits and drawbacks of sharding in PostgreSQL.
+- [nosql_at_scale.md](databases/nosql_at_scale.md): CAP theorem, how it influences database choices, and an overview of various NoSQL databases, their benefits and drawbacks
 
 ### Performance
 - [caching-levels.md](performance/caching-levels.md): Explanation of different caching levels in web applications.
