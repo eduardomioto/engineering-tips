@@ -45,7 +45,7 @@ HTTP/2 is the second major revision of the HTTP protocol, introduced to improve 
 | **Adoption Difficulty** | Easy to adopt for existing TCP stacks | Requires support for QUIC         |
 
 - [Video - HTTP 3 Explained](https://www.youtube.com/watch?v=ai8cf0hZ9cQ)
-- [Video - HTTP 1 Vs HTTP 2 Vs HTTP 3!](https://www.youtube.com/watch?v=UMwQjFzTQXw)
+- [Video - HTTP 1 Vs HTTP 2 Vs HTTP 3](https://www.youtube.com/watch?v=UMwQjFzTQXw)
 
 ---
 
