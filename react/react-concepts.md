@@ -235,3 +235,4 @@ class ErrorBoundary extends React.Component {
 
 ### References
 - [Video - Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
+- [Learn React – A Guide to the Key Concepts](https://www.freecodecamp.org/news/learn-react-key-concepts/)
