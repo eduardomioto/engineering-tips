@@ -1,8 +1,14 @@
 # NoSQL Databases at Scale
 
-![CAP Theorem](https://miro.medium.com/v2/resize:fit:640/format:webp/1*rxTP-_STj-QRDt1X9fdVlA.png)
 
 ## Introduction
+
+NoSQL databases have gained popularity due to their ability to handle large volumes of unstructured data, provide high availability, and scale horizontally. This guide explores the CAP theorem and how it influences database choices, and provides an overview of various NoSQL databases, their benefits, drawbacks, and the programming languages they are written in. Whether you're building a real-time analytics system, a social media platform, or a data warehousing solution, understanding the strengths and limitations of each database will help you make an informed decision.
+
+## CAP Theorem
+
+![CAP Theorem](https://miro.medium.com/v2/resize:fit:640/format:webp/1*rxTP-_STj-QRDt1X9fdVlA.png)
+
 
 ### Navigating Database Choices with the CAP Theorem
 Different applications demand different priorities in terms of data consistency, system availability, and tolerance to network partitions. Here's how popular databases measure up against the CAP dimensions:
