@@ -44,6 +44,9 @@ HTTP/2 is the second major revision of the HTTP protocol, introduced to improve 
 | **Packet Recovery**     | Retransmits the entire connection  | Retransmits only lost packets      |
 | **Adoption Difficulty** | Easy to adopt for existing TCP stacks | Requires support for QUIC         |
 
+- [Video - HTTP 3 Explained](https://www.youtube.com/watch?v=ai8cf0hZ9cQ)
+- [Video - HTTP 1 Vs HTTP 2 Vs HTTP 3!](https://www.youtube.com/watch?v=UMwQjFzTQXw)
+
 ---
 
 ## Why HTTP/3 Matters
@@ -51,6 +54,8 @@ HTTP/2 is the second major revision of the HTTP protocol, introduced to improve 
 1. **Improved User Experience**: Reduced latency ensures faster page loads, especially in mobile and high-latency networks.
 2. **Resilience**: QUIC handles packet loss more efficiently, improving performance in unreliable networks.
 3. **Future-Proofing**: Adoption of HTTP/3 aligns with the next generation of internet protocols focused on speed and security.
+
+
 
 ---
 
